@@ -3,7 +3,7 @@ name: "\U0001F691️ Fix"
 about: 버그 수정 작업
 title: "\U0001F691️ Fix: 이슈제목"
 labels: "\U0001F691️ Fix"
-assignees: ""
+assignees: ''
 ---
 
 # 🚑️ Fix

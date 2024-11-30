@@ -1,9 +1,9 @@
 ---
 name: "\U0001F484 Design"
 about: UI 관련 작업
-title: ""
+title: ''
 labels: "\U0001F484 Design"
-assignees: ""
+assignees: ''
 ---
 
 # 💄 Design
